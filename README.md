@@ -1,4 +1,8 @@
-# orjson
+# Xorjson
+
+Xorjson is [orjson](https://github.com/ijl/orjson) fork that will accept incoming pull requests and respond to issues.
+
+---
 
 orjson is a fast, correct JSON library for Python. It
 [benchmarks](https://github.com/ijl/orjson?tab=readme-ov-file#performance) as the fastest Python
